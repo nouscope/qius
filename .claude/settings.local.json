@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\erick\\\\projects\\\\Qius\" -Recurse -Depth 2)",
+      "Bash(Select-Object -First 100)",
+      "Bash(Format-Table -AutoSize)"
+    ]
+  }
+}
